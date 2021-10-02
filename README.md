@@ -5,4 +5,4 @@ Cvična git repozitory
 Změna do githubu pro zkoušku
 
 ## Third exercise
-soem changes
+some changes
