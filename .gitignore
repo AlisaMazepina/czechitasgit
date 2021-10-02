@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+*.txt
+output
+
+
+vysledky.txt
+*.xml
+
 # Log file
 *.log
 
