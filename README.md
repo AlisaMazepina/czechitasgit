@@ -1,0 +1,2 @@
+# czechitasgit
+Cvična git repozitory 
