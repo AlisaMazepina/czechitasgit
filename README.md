@@ -10,3 +10,5 @@ some changes
 ## ctvrtý pokus
 pro zkošku
 
+zkouska s tomem 
+
